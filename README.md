@@ -1,89 +1,38 @@
-Highly astute senior software engineer with a knack for cultivating long-term relationships with company clients. A true analyser of trends who is also knowledgeable in social media and marketing. I have over 8 years of experience in software development and information technology hardware and systems.
+# Hey 👋
 
-✏️ Databases:
-✅ MySQL, PostgreSQL, NoSQL, MariaDB
-✅ AWS RDS
+I'm Edgar, a Lead Software Engineer from the UK, born in Lithuania.
 
-✏️ Backend:
-✅ PHP, Laravel, NodeJS, Lumen
-✅ Tenancy for Laravel, Spatie packages
-✅ Python, Pytesseract
-✅ AWS EC2, AWS Lightsail
+---
 
-✏️ APIs:
-✅ Google Cloud Storage, Google Ads, Google Cloud Vision
-✅ Klarna, Stripe, Affirm
+### 🧰 Languages and Tools
 
-✏️ Frontend:
-✅ React, VueJS
-✅ Webpack, babel
-✅ Bootstrap, Tailwind CSS
-✅ jQuery, Datatables, Mapbox.js
+<img align="left" alt="Linux" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" />
+<img align="left" alt="Bash" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" />
+<img align="left" alt="Git" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
+<img align="left" alt="Git" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rabbitmq/rabbitmq-original.svg" />
+<img align="left" alt="Git" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/selenium/selenium-original.svg" />
+<img align="left" alt="Git" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" />
+<img align="left" alt="Git" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg" />
+<img align="left" alt="Git" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" />
+<img align="left" alt="Git" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" />
+<img align="left" alt="Git" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redis/redis-original.svg" />
+<img align="left" alt="Git" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg" />
+<img align="left" alt="Spring" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" />
+<img align="left" alt="Spring" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-original.svg" />
+<img align="left" alt="Spring" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/livewire/livewire-original.svg" />
+<img align="left" alt="Spring" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" />
+<img align="left" alt="React" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" />
+<img align="left" alt="React" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
+<img align="left" alt="React" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/svelte/svelte-original.svg" />
+<img align="left" alt="Java" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg"/>
+<img align="left" alt="Linux" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnetcore/dotnetcore-original.svg" />
+<img align="left" alt="Linux" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/blazor/blazor-original.svg" />
+<img align="left" alt="HTML" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg" />
+<img align="left" alt="CSS" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg" />
+<img align="left" alt="JavaScript" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" />
+<img align="left" alt="TypeScript" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-plain.svg" />
+<img align="left" alt="NodeJS" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
 
-✏️ Design and prototype:
-✅ Figma, Adobe XD, Adobe Illustrator, Adobe Photoshop
-
-✏️ Tools:
-✅ Git, Github, BitBucket
-
-✏️ App Development:
-✅ XCode, Android Studio
-✅ Visual Studio
-✅ Cordova
-
-✏️ Other Skills:
-✅ Amazon Web Services (AWS)
-✅ Microsoft Azure
-✅ Google Cloud Platform (GCP)
-✅ CloudFormation
-✅ CloudFront
-✅ CloudTrail
-✅ CloudWatch
-✅ Cloud Infrastructure
-✅ Cloud Logistics
-✅ CircleCI
-✅ DevOps
-✅ Hyper-V/VMware
-✅ BIND DNS
-✅ DNS
-✅ Docker
-✅ EFS
-✅ EBS
-✅ EKS
-✅ Elastic Load Balancer (ELB)
-✅ ElastiCache
-✅ Migration and Automation
-✅ Microsoft Azure, AWS, GCP IaaS and PaaS.
-✅ Hybrid Azure, AWS, GCP
-✅ Route 53
-✅ S3
-✅ GraphQL
-✅ Kubernetes
-✅ Jenkins
-✅ CodePipelines
-✅ CI/CD
-✅ Terraform
-✅ Ansible
-✅ Apache
-✅ Nginx
-✅ Nagios
-✅ New Relic
-✅ Glacier
-✅ SQS
-✅ SWF
-✅ SNS
-✅ VPC
-✅ IAM
-✅ Linux
-
-My passion is web development. In this sector, I have the ability to produce a very desirable solution. I would be delighted to support you in turning your concept into reality by creating a modern and appealing web application.
-
-With a focus on scalability, sustainability and security. I can operate professionally within demanding and challenging environments. I have experience in leading over 100 projects from inception to completion, on time and within agreed budgets.
-
-I firmly believe in "under-promise and over-deliver" and endeavor to take on all projects with a win-win attitude and high consideration for my clients' needs. I excel at communication and my primary objective is always to add value to and improve the current status of my client.
-
-I am eager to work with you, as I am a highly motivated individual with a natural ability to think innovatively and analytically. Operating with strong communication, I work well with both technical and non-technical audiences.
-
-Contact and invite me TODAY, so we can discuss your business and see how we can work together.
-
-I'm excited to be a part of your initiative.
+<img align="left" alt="NodeJS" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" />
+<img align="left" alt="NodeJS" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg" />
+<img align="left" alt="NodeJS" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bulma/bulma-plain.svg" />
