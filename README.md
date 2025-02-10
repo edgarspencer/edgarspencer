@@ -1,6 +1,6 @@
 # Hey 👋
 
-I'm Edgar, a Lead Software Engineer from the UK, born in Lithuania.
+I'm Edgar, a Senior Software Engineer from the UK, born in Lithuania.
 
 ---
 
